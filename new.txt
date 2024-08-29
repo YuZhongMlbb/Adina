@@ -1,0 +1,3 @@
+Comp = 14
+Apple = 19
+Ban = 17
